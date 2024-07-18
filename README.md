@@ -113,9 +113,9 @@
 
 ## HELPERS
 
-<a href="https://github.com/astrofx0011"><img src="https://github.com/astrofx0011.png?size=100" width="130" height="100"></a> | [<img src="https://github.com/Eliahhango.png?size=100" width="100" height="100">](https://github.com/Eliahhango) 
+ | [<img src="https://github.com/Eliahhango.png?size=100" width="100" height="100">](https://github.com/Eliahhango) 
 ---|---
-[Astrofx](https://github.com/astrofx0011)  | [Eliah](https://github.com/Eliahhango)
+}| [Eliah](https://github.com/Eliahhango)
 Plugins | Bug Fixer & Help |
 
 ## Support

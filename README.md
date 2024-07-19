@@ -83,14 +83,13 @@
 <a href="https://whatsapp.com/channel/0029VaeEYF0BvvsZpaTPfL2s"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/Eliah_Hango"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<img alt="Development" width="250" src='https://i.imgur.com/LyHic3i.gif'/></a>
 # 
 
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-* [Follow EliTechWiz Whatsapp Channe](https://whatsapp.com/channel/0029VaeEYF0BvvsZpaTPfL2s)
+* [Follow EliTechWiz Whatsapp Channel](https://whatsapp.com/channel/0029VaeEYF0BvvsZpaTPfL2s)
 
 * [ Join Tech Army 🔥 Group](https://t.me/techarmyy)
 
@@ -114,7 +113,7 @@
 ## HELPERS
 
 [<img src="https://github.com/Eliahhango.png?size=100" width="100" height="100">](https://github.com/Eliahhango) [Eliah](https://github.com/Eliahhango)
-Plugins | Bug Fixer & Help |
+ | Bug Fixer & Help |
 
 ## Support
 

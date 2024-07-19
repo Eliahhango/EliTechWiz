@@ -84,7 +84,7 @@
 <a href="https://t.me/Eliah_Hango"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
 <img alt="Development" width="250" src='https://i.imgur.com/LyHic3i.gif'/></a>
-# 
+
 
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

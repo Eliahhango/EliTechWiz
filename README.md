@@ -31,7 +31,6 @@
 
 ### SERVER 1
  
-<a href="https://anita-server-1.onr
 ### DEPLOY ON RENDER
 
 1. If you don't have an account in RENDER, create one and deploy.

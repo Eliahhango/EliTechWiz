@@ -9,7 +9,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Queen_Anita-V2",
+        "value": "Eliah Hango",
         "required": true
       },
   
@@ -31,7 +31,7 @@
       },
       "MENU": {
         "description": "choose 1, 2, 3",
-        "value": "1"
+        "value": "2"
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
